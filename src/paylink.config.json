@@ -3,7 +3,7 @@
 
   "properties": {
     "name": "nanixxx",
-    "description": "Photojournalist and Trader",
+    "description": "PHOTOJOURNALIST, WRITER AND TRADER",
     "alt": "Photo of nanixxx",
     "hero": "./images/perfil.jpg"
   },
@@ -36,18 +36,6 @@
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "tarjetadebanco1",
-      "label": "CUP Card",
-      "value": "9200 9598 7313 8537",
-      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
-    },
-    {
-      "id": "tarjetadebanco2",
-      "label": "MLC Card",
-      "value": "9225 9598 7234 8864",
-      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
-    },
-    {
       "id": "doge",
       "label": "DogeCoin",
       "value": "",
@@ -76,6 +64,18 @@
       "label": "USDT",
       "value": "THGeAruz51ErQ6ngucamQhPr6Ddf5x3mMP",
       "img": "./images/payments/usdt.svg"
+    },
+      {
+      "id": "tarjetadebanco1",
+      "label": "CUP Card",
+      "value": "9200 9598 7313 8537",
+      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
+    },
+    {
+      "id": "tarjetadebanco2",
+      "label": "MLC Card",
+      "value": "9225 9598 7234 8864",
+      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
     },
     {
       "id": "qvapay",
