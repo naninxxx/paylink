@@ -2,24 +2,24 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "nanixxx",
+    "description": "Photojournalist and Trader",
+    "alt": "Photo of nanixxx",
+    "hero": "./images/perfil.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/nanixxx_FT" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "https://www.instagram.com/needle_light/" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
-    { "label": "Telegram", "type": "telegram", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/nanixxx" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
@@ -32,20 +32,20 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "1DvDjSGN4YFUrThog7QoCtRweccT1So4Ly",
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
-      "img": "./images/payments/busd.svg"
+      "id": "tarjetadebanco1",
+      "label": "CUP Card",
+      "value": "9200 9598 7313 8537",
+      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
     },
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
+      "id": "tarjetadebanco2",
+      "label": "MLC Card",
+      "value": "9225 9598 7234 8864",
+      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
     },
     {
       "id": "doge",
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -74,13 +74,13 @@
     {
       "id": "usdt",
       "label": "USDT",
-      "value": "",
+      "value": "THGeAruz51ErQ6ngucamQhPr6Ddf5x3mMP",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
