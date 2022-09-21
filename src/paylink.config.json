@@ -65,17 +65,17 @@
       "value": "THGeAruz51ErQ6ngucamQhPr6Ddf5x3mMP",
       "img": "./images/payments/usdt.svg"
     },
-      {
+    {
       "id": "tarjetadebanco1",
       "label": "CUP Card",
       "value": "9200 9598 7313 8537",
-      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
+      "img": "./images/png-transparent-credit-card-computer-icons-credit-card-hand-apartment-internet-thumbnail.png"
     },
     {
       "id": "tarjetadebanco2",
       "label": "MLC Card",
       "value": "9225 9598 7234 8864",
-      "img": "https://www.bc.gob.cu//storage/inst-bancarias/May2018/METRO11.jpg"
+      "img": "./images/png-transparent-credit-card-computer-icons-credit-card-hand-apartment-internet-thumbnail.png"
     },
     {
       "id": "qvapay",
